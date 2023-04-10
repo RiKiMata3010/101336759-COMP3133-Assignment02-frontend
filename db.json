@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Phoenix",
+      "lastName": "Armand",
+      "email": "phoenix@gmail.com",
+      "id": 1
+    },
+    {
+      "firstName": "Phoenixaaa",
+      "lastName": "Armandaaa",
+      "email": "phoenix@gmail.comaaa",
+      "id": 2
+    },
+    {
+      "firstName": "Hello ",
+      "lastName": "Professor",
+      "email": "professor@gmail.com",
+      "id": 3
+    }
+  ]
+}
